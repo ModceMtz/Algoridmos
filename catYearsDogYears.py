@@ -1,3 +1,7 @@
+'''
+Programa que calcula la edad de un gato y un perro con respecto a la de los humanos
+'''
+
 def calculate_ages(humanYears):
     if humanYears == 1:
         catYears = 15
