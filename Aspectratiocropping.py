@@ -1,3 +1,6 @@
+'''
+Codigo para cambiar el tamaño de las imagenes o fotas a preferencia
+'''
 def ajustar_relacion_aspecto(ancho_original, alto_original):
     # La relación de aspecto deseada es 16:9
     # Calculamos el nuevo ancho manteniendo la altura original
